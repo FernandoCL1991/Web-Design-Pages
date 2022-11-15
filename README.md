@@ -21,7 +21,8 @@ Few notes of advice:
 2. HTML and CSS structure is already in place: take some time to understand the structure and how every file is connected to each other and navigate through the website.
 3. Fork-Edit-Push-Refresh: You can see the changes you are making in the website once you push to your repo. Just go to your link and refresh!
 
-In case you are still interested in other Bootstrap templates: https://bootstrapmade.com/
+In case you are still interested in other Bootstrap templates: 
+--> https://bootstrapmade.com/
 
 # If you're still interested in using Jekyll...
 
@@ -31,7 +32,6 @@ The other nice thing about Jekyll is that it will integrate things like Google A
 Jekyll is built into GitHub, so we just need to edit the files in our repository to have GitHub automatically build the webpage.
 
 If you want to dig deeper into Jekyll you can look into these video and follow through for the entire setup in your computer:
-
 --> https://www.youtube.com/watch?v=EvYs1idcGnM
 
 
