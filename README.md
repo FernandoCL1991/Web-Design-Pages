@@ -17,10 +17,10 @@ Note that there is a dropdown menu on top of the website (thanks to Bootstrap!) 
 Maybe you can take advantage of this unique website to share your professional goals and accomplishments by posting the URL in your LinkedIn account.
 
 Few notes of advice:
-1. Fork the repo! (top right-hand corner)
-This means that you’ll be creating a copy of it in your profile instead of committing and pushing changes to the original one. (Everyone will be creating their own blog).
+1. Fork the repo! (top right-hand corner): This means that you’ll be creating a copy of it in your profile instead of committing and pushing changes to the original one. (Everyone will be creating their own blog).
 2. HTML and CSS structure is already in place: take some time to understand the structure and how every file is connected to each other and navigate through the website.
 3. Fork-Edit-Push-Refresh: You can see the changes you are making in the website once you push to your repo. Just go to your link and refresh!
+
 In case you are still interested in other Bootstrap templates: https://bootstrapmade.com/
 
 # If you're still interested in using Jekyll...
