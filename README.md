@@ -31,7 +31,21 @@ Jekyll is what’s known as a static site generator. It will build a website fro
 The other nice thing about Jekyll is that it will integrate things like Google Analytics, Tags, and search into your website structure.
 Jekyll is built into GitHub, so we just need to edit the files in our repository to have GitHub automatically build the webpage.
 
-If you want to dig deeper into Jekyll you can look into these video and follow through for the entire setup in your computer:
+There are some steps you need to take to work with Jekyll from your local computer:
+1. Install Ruby in your computer
+--> https://www.ruby-lang.org/en/documentation/installation/
+2. Install Jekyll in your computer
+--> https://jekyllrb.com/docs/installation/
+3. Clone your repo and open it in a code editor
+4. Install and activate the Jekyll extension in the code editor
+5. In the code editor terminal type: jekyll new .--force
+6. This will create files required to launch your website in GitHub Pages
+7. Follow through the official documentation of specific Jekyll themes: 
+--> https://pages.github.com/themes/  
+
+![image](https://user-images.githubusercontent.com/73721626/202047733-5b70f10d-3220-4b23-b45d-0ad8ceaaeaef.png)
+
+If you want to dig deeper into Jekyll you can watch this video and follow through for the entire setup in your computer:
 --> https://www.youtube.com/watch?v=EvYs1idcGnM
 
 
