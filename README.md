@@ -7,7 +7,7 @@ GitHub also uses their own flavor of Markdown (called GitHub markdown) as the ma
 
 A variation of GitHub markdown is Rmarkdown, which is Markdown + R. Rmarkdown is really useful for reproducible analyses, and it can also be used in conjunction with Shiny to make interactive slides.
 
-# Since we already know HTML and CSS… we are using these 2 scripting languages for the Workshop
+# Since we already know HTML and CSS… we are using these twp scripting languages for the Workshop
 
 Don’t be alarmed! This repo has the entire structure already in place for you to start working.
 The Workshop consists in you creating a blog of yourself in which you tell the users your favorite food, places, cities, your favorite spots in Berlin, family, friends, pets, and unique interests!
